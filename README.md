@@ -181,6 +181,13 @@ Built by the [Tech Immigrants](https://github.com/TechImmigrants) community — 
 - **Resources:**
   - [MOHRE (Official)](https://www.mohre.gov.ae/en/home.aspx)
 
+### 🇺🇸 United States
+
+- **Visa:** F-1 OPT / STEM OPT (post-graduation work authorization), H-1B (employer-sponsored lottery), O-1 (extraordinary ability)
+- **OPT path:** F-1 students get 12 months of OPT; STEM majors qualify for a 24-month STEM OPT extension (up to 36 months total)
+- **Resources:**
+  - [OptPulse](https://optpulse.org) — free tracker for OPT/STEM OPT key dates, EAD approval predictions, and Premium Processing timelines based on community-reported USCIS data
+
 > **Want to add your country?** Open a PR! Share what you learned during your own immigration journey.
 
 ---
