@@ -44,6 +44,7 @@ Built by the [Tech Immigrants](https://github.com/TechImmigrants) community — 
 - [The Tech Resume Inside Out](https://thetechresume.com/) — specifically for software engineers
 - [FlowCV](https://flowcv.io/) — free ATS-friendly resume builder
 - [Resume Worded](https://resumeworded.com/) — AI-powered resume scoring
+- [ResumeAI](https://withresumeai.com/) — Free ATS checker + live candidate leaderboard (State of ATS 2026: 738 employers, 704 portal-verified; Workday 37.9%)
 - [Overleaf CV Templates](https://www.overleaf.com/gallery/tagged/cv) — LaTeX templates for academic/tech CVs
 - [Jake's Resume Template](https://github.com/jakegut/resume) — popular single-page LaTeX template
 - [Tech Immigrants CV Builder](https://github.com/TechImmigrants/cv-builder) — our own open source AI-powered builder
