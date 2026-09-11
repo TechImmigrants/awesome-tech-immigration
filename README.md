@@ -78,6 +78,7 @@ Built by the [Tech Immigrants](https://github.com/TechImmigrants) community — 
 - [interviewing.io](https://interviewing.io/) — anonymous mock interviews with engineers from FAANG
 - [Pramp](https://www.pramp.com/) — free peer-to-peer mock interviews
 - [AlgoExpert](https://www.algoexpert.io/) — 160 hand-picked coding questions with video explanations
+- [InterviewLegend](https://interviewlegend.com) - company-specific coding and system design interview prep
 
 ### Data Science & ML
 
