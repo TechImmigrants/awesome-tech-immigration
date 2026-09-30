@@ -185,6 +185,15 @@ Built by the [Tech Immigrants](https://github.com/TechImmigrants) community — 
 
 ---
 
+### 🇺🇸 United States
+
+- **Visa:** H-1B (lottery, employer-sponsored), O-1 (extraordinary ability), L-1 (intracompany transfer). Green card via EB-1/EB-2/EB-3 — the monthly Visa Bulletin sets per-country cutoff dates
+- **CV norms:** 1-2 pages, no photo / age / marital status, ATS-friendly plain formatting
+- **Job market:** SF Bay Area, Seattle, NYC, Austin. H-1B sponsorship concentrated in big tech, finance and consulting
+- **Resources:**
+  - [Visa Bulletin (Official)](https://travel.state.gov/content/travels/en/legal/visa-law0/visa-bulletin.html)
+  - [visa-bulletin-cn](https://github.com/xjokerabab/visa-bulletin-cn) — Structured JSON of every Visa Bulletin since 2023-01 (15 categories × Table A/B × China-mainland / India / Worldwide), updated monthly. Maintained by [Yimin Shuju](https://yiminshuju.com/), a Chinese-language immigration data platform with green card backlog commentary, Canada EE draw records and points self-assessment tools
+
 ## Visa Types for Tech Workers
 
 | Visa Type | Country | Key Requirement |
