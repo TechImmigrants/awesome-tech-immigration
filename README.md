@@ -98,6 +98,7 @@ Built by the [Tech Immigrants](https://github.com/TechImmigrants) community — 
 | Platform | Focus | Region |
 |----------|-------|--------|
 | [Relocate.me](https://relocate.me/) | Jobs offering relocation | Global |
+| [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote | Global |
 | [Landing.jobs](https://landing.jobs/) | Tech jobs in Europe | Europe |
 | [SwissDevJobs](https://swissdevjobs.ch/) | Developer jobs in Switzerland | Switzerland |
 | [Japan Dev](https://japan-dev.com/) | Tech jobs in Japan (English-friendly) | Japan |
