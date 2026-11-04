@@ -43,6 +43,7 @@ Built by the [Tech Immigrants](https://github.com/TechImmigrants) community — 
 - [Harvard Resume Guide (PDF)](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf) — solid fundamentals
 - [The Tech Resume Inside Out](https://thetechresume.com/) — specifically for software engineers
 - [FlowCV](https://flowcv.io/) — free ATS-friendly resume builder
+- [ResumeInvited](https://resumeinvited.com/) — free browser-based resume builder with templates, live preview, and PDF or editable Word export (no account required)
 - [Resume Worded](https://resumeworded.com/) — AI-powered resume scoring
 - [Overleaf CV Templates](https://www.overleaf.com/gallery/tagged/cv) — LaTeX templates for academic/tech CVs
 - [Jake's Resume Template](https://github.com/jakegut/resume) — popular single-page LaTeX template
