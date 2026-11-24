@@ -110,6 +110,7 @@ Built by the [Tech Immigrants](https://github.com/TechImmigrants) community — 
 | [AngelList / Wellfound](https://wellfound.com/) | Startup jobs, filter by visa sponsorship | Global |
 | [LinkedIn](https://linkedin.com/jobs) | Use filter: "Visa sponsorship" | Global |
 | [Who is Hiring?](https://github.com/poteto/hiring-without-whiteboards) | Companies that don't whiteboard | Global |
+| [Pikki Jobs](https://pikki.synthworx.com/h1b-employers/software-developers?utm_source=github&utm_campaign=tech-immigrants) | Free H-1B transfer filing search by occupation and state, with employer-posted sponsorship examples | USA |
 
 ---
 
